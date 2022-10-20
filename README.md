@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Kashish Ahuja</h1> 
 <h3 align="center">Front-End Developer</h3>
 
-<img width = "30%" align="right" alt="gif"  src="https://user-images.githubusercontent.com/55057608/196962872-09ab0293-7565-4ffa-9725-d1cb70a7ea5a.jpeg" />
+<img width="30%" align="right" alt="Kashish Ahuja" src="https://user-images.githubusercontent.com/55057608/196962872-09ab0293-7565-4ffa-9725-d1cb70a7ea5a.jpeg" style="border-radius: 10px;" />
   
 ##  About me
 <div align="left">
@@ -32,7 +32,7 @@
 <br/>
 
 ##  Stats
-<div style="display: flex; flex-direction: row"> 
+<div> 
 <img src="https://github-readme-stats.vercel.app/api?username=kashishahuja2002&show_icons=true&theme=gotham" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashishahuja2002&theme=gotham"/>
 </div>
