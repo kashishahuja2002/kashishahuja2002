@@ -20,10 +20,13 @@
 
 ##  Languages and Tools
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="5%"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="5%"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="5%"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="5%"/>
 </p>
 
 <br/>
@@ -40,9 +43,9 @@
 
 ## Connect with me
 <p align="center">
-<a href="https://www.linkedin.com/in/kashish-ahuja-1505/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn | kashish-ahuja-1505" width="4%" /></a>
+<a href="https://www.linkedin.com/in/kashish-ahuja-1505/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn | kashish-ahuja-1505" width="4%" /></a>
 &nbsp;
-<a href="https://www.instagram.com/kashish.ahuja_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram | kashish.ahuja_" width="4%" /></a>
+<a href="https://www.instagram.com/kashish.ahuja_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram | kashish.ahuja_" width="4%" /></a>
 &nbsp;
-<a href="https://twitter.com/15kashishahuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter | 15kashishahuja" width="4%" /></a>
+<a href="https://twitter.com/15kashishahuja" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter | 15kashishahuja" width="4%" /></a>
 </p>
