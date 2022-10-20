@@ -1,5 +1,5 @@
-<h1 align="center" style="margin: 20px;">Hello 👋, I'm Kashish Ahuja</h1> 
-<h3 align="center" style="margin: 20px;">Front-End Developer</h3>
+<h1 align="center">Hello 👋, I'm Kashish Ahuja</h1> 
+<h3 align="center">Front-End Developer</h3>
 
 <div>
 
