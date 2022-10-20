@@ -6,7 +6,7 @@
 ##  About me
 <div align="left">
  
-- I am pursuing Integrated M.Tech (IT) at IIPS, DAVV, Indore. 🎓
+- I am pursuing Integrated M.Tech (IT) from IIPS, DAVV, Indore. 🎓
   
 - I’m a front-end developer.
   
