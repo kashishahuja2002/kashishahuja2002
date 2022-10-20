@@ -33,14 +33,10 @@
 
 ##  Stats
 
+<img src="https://github-readme-stats.vercel.app/api?username=kashishahuja2002&show_icons=true&theme=gotham" width="50%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kashishahuja2002&theme=gotham" width="50%" />
 
-[![ &nbsp; Kashish's github activity graph | Reload once if you cannot see this image ](https://gh-readme-activity-graph.herokuapp.com/graph?username=kashishahuja2002&theme=gotham&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<hr>
-
-<div> 
-<img src="https://github-readme-stats.vercel.app/api?username=kashishahuja2002&show_icons=true&theme=gotham" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kashishahuja2002&theme=gotham"/>
-</div>
+<table border=0><tr><td><img src="https://github-readme-stats.vercel.app/api?username=kashishahuja2002&show_icons=true&theme=gotham" /></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=programmer290399&theme=gotham"/></td></tr></table>
 
 ![ &nbsp; Kashish's github activity graph | Reload once if you cannot see this image ](https://gh-readme-activity-graph.herokuapp.com/graph?username=kashishahuja2002&theme=gotham&custom_title=Contribution%20Graph)
 
