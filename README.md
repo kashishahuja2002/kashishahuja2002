@@ -68,7 +68,7 @@
 &nbsp;
 <a href="https://www.instagram.com/kashish.ahuja_/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram | kashish.ahuja_" width="4%" /></a>
 &nbsp;
-<a href="mailto:kashishahuja2002@gmail.com"><img align="center" width="6.5%" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>
+<a href="mailto:kashishahuja2002@gmail.com"><img align="center" width="6.5%" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /></a>
 &nbsp;
 <a href="https://twitter.com/15kashishahuja"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter | 15kashishahuja" width="4%" /></a>
 &nbsp;
