@@ -34,8 +34,8 @@
 ##  Stats
 
 <div style="display: flex; flex-direction: row"> 
-<img src="https://github-readme-stats.vercel.app/api?username=kashishahuja2002&show_icons=true&theme=gotham" width="45%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kashishahuja2002&theme=gotham" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=kashishahuja2002&show_icons=true&theme=gotham" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kashishahuja2002&theme=gotham" width="48%" />
 </div>
 
 <table border=0><tr><td><img src="https://github-readme-stats.vercel.app/api?username=kashishahuja2002&show_icons=true&theme=gotham" /></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=programmer290399&theme=gotham"/></td></tr></table>
