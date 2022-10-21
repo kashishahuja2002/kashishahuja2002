@@ -5,18 +5,31 @@
   
 ##  About me
 <div align="left">
- 
-- I am pursuing Integrated M.Tech (IT) from IIPS, DAVV, Indore. 🎓
-  
-- I’m a front-end developer.
-  
-- Currently learning MERN stack and DSA.
-  
-- Intrested in chess, art (painting), novels, music, and movies.
+
+- **Academics:** Pursuing Integrated M.Tech (IT) from IIPS, DAVV, Indore. <br/>
+Current CGPA: 9.25 🎓
+
+- **Tech Interests:** Passionate front-end developer and an open source enthusiast. <br/>
+I have also worked as a student volunteer in various communities. <br/>
+Currently learning MERN stack and DSA.
+
+- **Work Experience:** Currently working in Brain Inventory as a Software Developer. <br/>
+Previously worked in Walkover Web Solutions and FreeLancer IT Services. <br/>
+I am selected for SWE internship '23 at Google and Microsoft.
+
+- **Open-Source & Volunteering:** Contributed in open-source events, GWoC and Hacktoberfest. <br/>
+Mentored in GWoC and HackerRam and was selected as the top mentor in GWOC. <br/>
+Worked as a student volunteered in Hour of Code (HOC'19).
+
+- **Achievements:** Selected as Microsoft Engage Mentee'22 for mentorship by Microsoft team. <br/>
+Completed 14DaysOfCode, a coding marathon organized by NerdHerd community of our college. <br/>
+I am a state level chess player and led the MP girls chess team in the inter-university tournaments in 2019. 
+
+- **Hobbies:** Chess and art (painting).
 
 </div>
 
-<br/> <br/> <br/>
+<br/>
 
 ##  Languages and Tools
 <p align="left">
