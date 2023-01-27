@@ -36,17 +36,19 @@ I am a state level chess player and led the MP girls chess team in the inter-uni
 
 <img src="https://user-images.githubusercontent.com/55057608/215124769-4e28bb35-6b77-4572-8769-42423bbf3803.png" alt="C" width="5%"/>
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="5%"/>
+<img src="https://user-images.githubusercontent.com/55057608/215125719-b1eb21db-cd5d-4b96-a962-b13afef2fde5.png" alt="C++" width="5%"/>
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="5%"/>
+<img src="https://user-images.githubusercontent.com/55057608/215135875-f3a0f9ee-083e-4090-9d12-6a98bda40e18.png" alt="HTML" width="4.8%"/>
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="5%"/>
+<img src="https://user-images.githubusercontent.com/55057608/215132531-c2bf186e-e6cf-4802-89df-093ba13248d3.png" alt="CSS" width="4.8%"/>
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="BootStrap" width="5%"/>
+<img src="https://user-images.githubusercontent.com/55057608/215137273-32983d5d-fbdf-4f54-9afb-50e70c0c7696.png" alt="Sass" width="6.8%"/>
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="5%"/>
+<img src="https://user-images.githubusercontent.com/55057608/215129778-ca0e6263-095d-4bf6-a3bf-43e99e4413b0.png" alt="BootStrap" width="5.2%"/>
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="5%"/>
+<img src="https://user-images.githubusercontent.com/55057608/215138834-6c7fc9f6-1ee1-464e-ad98-c5ae0f8dcde0.png" alt="JavaScript" width="5%"/>
+&nbsp;
+<img src="https://user-images.githubusercontent.com/55057608/215139554-450c13fc-f06f-4e5d-a29e-4acea5ce82f2.png" alt="React.js" width="5.5%"/>
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="5%"/>
 &nbsp;
