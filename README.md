@@ -32,8 +32,9 @@ I am a state level chess player and led the MP girls chess team in the inter-uni
 <br/>
 
 ##  Languages and Tools
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="5%"/>
+<p align="center">
+
+<img src="https://user-images.githubusercontent.com/55057608/215124769-4e28bb35-6b77-4572-8769-42423bbf3803.png" alt="C" width="5%"/>
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="5%"/>
 &nbsp;
