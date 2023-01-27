@@ -51,20 +51,15 @@ I am a state level chess player and led the MP girls chess team in the inter-uni
   &nbsp;
   <img src="https://user-images.githubusercontent.com/55057608/215172117-1c6784a7-12b4-4917-954f-837e54b5e476.png" alt="Redux" width="5%"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="5%"/>
+  <img src="https://user-images.githubusercontent.com/55057608/215184579-9d4d5859-5dee-4eae-b581-714204c30f64.png" alt="Git" width="5%"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="5%"/>
+  <img src="https://user-images.githubusercontent.com/55057608/215185998-d93c21d2-1a25-451f-bd9e-dbd3f0cc9de0.png" alt="GitHub" width="5%"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySql" width="5%"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="5%"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Heroku" width="5%"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown" width="5%"/>
+  <img src="https://user-images.githubusercontent.com/55057608/215184827-93ec1b83-a9f6-47bd-aece-50c89c7e175b.png" alt="VS Code" width="5%"/>
 </p>
 
 <br/>
+
 
 ##  Stats
 
