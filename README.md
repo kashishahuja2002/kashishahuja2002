@@ -7,23 +7,23 @@
 <div align="left">
 
 - **Academics:** Pursuing Integrated M.Tech (IT) from IIPS, DAVV, Indore. <br/>
-Current CGPA: 9.25 🎓
+CGPA: 9.22 🎓
 
-- **Tech Interests:** Passionate front-end developer and an open source enthusiast. <br/>
+- **Tech Interests:** Passionate front-end developer. <br/>
 I have also worked as a student volunteer in various communities. <br/>
 Currently learning MERN stack and DSA.
 
-- **Work Experience:** Currently working in Brain Inventory as a Software Developer. <br/>
-Previously worked in Walkover Web Solutions and FreeLancer IT Services. <br/>
-I am selected for SWE internship '23 at Google and Microsoft.
+- **Work Experience:** Currently working at Google as a Software Engineering Intern. <br/>
+Previously worked in Brain Inventory, Walkover Web Solutions, and FreeLancer IT Services. <br/>
+I was also selected for the SWE internship '23 at Microsoft.
 
-- **Open-Source & Volunteering:** Contributed in open-source events, GWoC and Hacktoberfest. <br/>
-Mentored in GWoC and HackerRam and was selected as the top mentor in GWOC. <br/>
-Worked as a student volunteered in Hour of Code (HOC'19).
+- **Volunteering:** Mentored in GWoC'21 and HackerRam and was selected as the top mentor in GWOC. <br/>
+Contributed as a student volunteer in communities like GirlScript, Code.org, and DataCode.
 
 - **Achievements:** Selected as Microsoft Engage Mentee'22 for mentorship by Microsoft team. <br/>
-Completed 14DaysOfCode, a coding marathon organized by NerdHerd community of our college. <br/>
-I am a state level chess player and led the MP girls chess team in the inter-university tournaments in 2019. 
+Secured runner-up position in the Code To Win ’23 hackathon organized by ServiceNow. <br/>
+Won the Best UI/UX team award at The Great India Hackathon - Jabalpur. <br/>
+State-level chess player. I have led the MP girls’ team in various tournaments. 
 
 - **Hobbies:** Chess and art (painting).
 
