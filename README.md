@@ -60,6 +60,8 @@ State-level chess player. I have led the MP girls’ team in various tournaments
   &nbsp;
   <img src="https://github.com/kashishahuja2002/kashishahuja2002/assets/55057608/c15f9d9d-a087-46fb-8f3f-64b48d2e9bf5" alt="MongoDB" width="5%"/>
   &nbsp;
+  <img src="https://github.com/kashishahuja2002/kashishahuja2002/assets/55057608/b653003c-4a24-4d20-8619-914f5f84cb00" alt="SQL" width="8%"/>
+  &nbsp;
   <img src="https://user-images.githubusercontent.com/55057608/215184579-9d4d5859-5dee-4eae-b581-714204c30f64.png" alt="Git" width="5%"/>
   &nbsp;
   <img src="https://user-images.githubusercontent.com/55057608/215185998-d93c21d2-1a25-451f-bd9e-dbd3f0cc9de0.png" alt="GitHub" width="5%"/>
