@@ -47,9 +47,18 @@ State-level chess player. I have led the MP girls’ team in various tournaments
   &nbsp;
   <img src="https://user-images.githubusercontent.com/55057608/215138834-6c7fc9f6-1ee1-464e-ad98-c5ae0f8dcde0.png" alt="JavaScript" width="5%"/>
   &nbsp;
-  <img src="https://user-images.githubusercontent.com/55057608/215139554-450c13fc-f06f-4e5d-a29e-4acea5ce82f2.png" alt="React.js" width="5.5%"/>
+  <img src="https://github.com/kashishahuja2002/kashishahuja2002/assets/55057608/d9e5040e-31c0-451f-9312-40e59be3e748" alt="TypeScript" width="5%"/>
   &nbsp;
-  <img src="https://user-images.githubusercontent.com/55057608/215172117-1c6784a7-12b4-4917-954f-837e54b5e476.png" alt="Redux" width="5%"/>
+  <br/>
+  <img src="https://github.com/kashishahuja2002/kashishahuja2002/assets/55057608/44534ae0-3146-47b6-882e-9ca9174af47c" alt="Angular" width="4.8%"/>
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/55057608/215139554-450c13fc-f06f-4e5d-a29e-4acea5ce82f2.png" alt="React.js" width="5.2%"/>
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/55057608/215172117-1c6784a7-12b4-4917-954f-837e54b5e476.png" alt="Redux" width="4.8%"/>
+  &nbsp;
+  <img src="https://github.com/kashishahuja2002/kashishahuja2002/assets/55057608/9bf28dec-af9a-4371-b01e-2182ac41e01d" alt="Node.js" width="4.5%"/>
+  &nbsp;
+  <img src="https://github.com/kashishahuja2002/kashishahuja2002/assets/55057608/c15f9d9d-a087-46fb-8f3f-64b48d2e9bf5" alt="MongoDB" width="5%"/>
   &nbsp;
   <img src="https://user-images.githubusercontent.com/55057608/215184579-9d4d5859-5dee-4eae-b581-714204c30f64.png" alt="Git" width="5%"/>
   &nbsp;
