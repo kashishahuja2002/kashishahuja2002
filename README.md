@@ -1,10 +1,10 @@
 <h1 align="center">Hello 👋, I'm Kashish Ahuja</h1> 
 <h3 align="center">Front-End Developer</h3>
-
-<img width="30%" align="right" alt="Kashish Ahuja" src="https://user-images.githubusercontent.com/55057608/196962872-09ab0293-7565-4ffa-9725-d1cb70a7ea5a.jpeg" />
   
 ##  About me
 <div align="left">
+
+<img width="30%" align="right" alt="Kashish Ahuja" src="https://user-images.githubusercontent.com/55057608/196962872-09ab0293-7565-4ffa-9725-d1cb70a7ea5a.jpeg" />
 
 - **Academics:** Pursuing Integrated M.Tech (IT) from IIPS, DAVV, Indore. <br/>
 CGPA: 9.22 🎓
