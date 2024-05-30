@@ -6,7 +6,7 @@
 
 <img width="30%" align="right" alt="Kashish Ahuja" src="https://user-images.githubusercontent.com/55057608/196962872-09ab0293-7565-4ffa-9725-d1cb70a7ea5a.jpeg" />
 
-- **Academics:** Software Engineer with an M.Tech (IT) degree from IIPS, DAVV, Indore. <br/>
+- **Academics:** Software Engineer with an M.Tech (IT) degree from IIPS, DAVV, Indore. (2024 batch) <br/>
 CGPA: 9.23 🎓
 
 - **Tech Interests:** Passionate front-end developer. <br/>
