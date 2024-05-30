@@ -6,15 +6,14 @@
 
 <img width="30%" align="right" alt="Kashish Ahuja" src="https://user-images.githubusercontent.com/55057608/196962872-09ab0293-7565-4ffa-9725-d1cb70a7ea5a.jpeg" />
 
-- **Academics:** Pursuing Integrated M.Tech (IT) from IIPS, DAVV, Indore. <br/>
-CGPA: 9.22 🎓
+- **Academics:** Software Engineer with an M.Tech (IT) degree from IIPS, DAVV, Indore. <br/>
+CGPA: 9.23 🎓
 
 - **Tech Interests:** Passionate front-end developer. <br/>
-I have also worked as a student volunteer in various communities. <br/>
-Currently learning MERN stack and DSA.
+I have also worked as a student volunteer in various communities.
 
-- **Work Experience:** Currently working at Google as a Software Engineering Intern. <br/>
-Previously worked in Brain Inventory, Walkover Web Solutions, and FreeLancer IT Services. <br/>
+- **Work Experience:** Currently working at ServiceNow as a Software Engineering Intern. <br/>
+Previously worked in ServiceNow, Google, Brain Inventory, Walkover Web Solutions, and FreeLancer IT Services. <br/>
 I was also selected for the SWE internship '23 at Microsoft.
 
 - **Volunteering:** Mentored in GWoC'21 and HackerRam and was selected as the top mentor in GWOC. <br/>
@@ -31,7 +30,7 @@ State-level chess player. I have led the MP girls’ team in various tournaments
 
 <br/>
 
-##  Languages and Tools
+##  Technical Skills
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55057608/215124769-4e28bb35-6b77-4572-8769-42423bbf3803.png" alt="C" width="5%"/>
   &nbsp;
