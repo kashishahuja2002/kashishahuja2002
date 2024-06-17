@@ -6,14 +6,13 @@
 
 <img width="30%" align="right" alt="Kashish Ahuja" src="https://user-images.githubusercontent.com/55057608/196962872-09ab0293-7565-4ffa-9725-d1cb70a7ea5a.jpeg" />
 
-- **Academics:** Software Engineer with an M.Tech (IT) degree from IIPS, DAVV, Indore. (2024 batch) <br/>
+- **Academics:** Software Engineer with a Master of Technology degree in Information Technology from IIPS, Devi Ahilya Vishwavidyalaya, Indore (2024 batch). <br/>
 CGPA: 9.23 🎓
 
-- **Tech Interests:** Passionate front-end developer. <br/>
-I have also worked as a student volunteer in various communities.
+- **Tech Interests:** Passionate front-end developer.
 
-- **Work Experience:** Currently working at ServiceNow as a Software Engineering Intern. <br/>
-Previously worked in ServiceNow, Google, Brain Inventory, Walkover Web Solutions, and FreeLancer IT Services. <br/>
+- **Work Experience:** Currently working at Google as a Software Engineer. <br/>
+Previously interned at ServiceNow, Google, Brain Inventory, Walkover Web Solutions, and FreeLancer IT Services. <br/>
 I was also selected for the SWE internship '23 at Microsoft.
 
 - **Volunteering:** Mentored in GWoC'21 and HackerRam and was selected as the top mentor in GWOC. <br/>
@@ -21,10 +20,10 @@ Contributed as a student volunteer in communities like GirlScript, Code.org, and
 
 - **Achievements:** Selected as Microsoft Engage Mentee'22 for mentorship by Microsoft team. <br/>
 Secured runner-up position in the Code To Win ’23 hackathon organized by ServiceNow. <br/>
-Won the Best UI/UX team award at The Great India Hackathon - Jabalpur. <br/>
-State-level chess player. I have led the MP girls’ team in various tournaments. 
+Won the Best UI/UX team award at The Great India Hackathon - Jabalpur.
 
-- **Hobbies:** Chess and art (painting).
+- **Hobbies:** Chess and art (painting). <br/>
+State-level chess player. I have led the MP girls’ team in various tournaments. 
 
 </div>
 
