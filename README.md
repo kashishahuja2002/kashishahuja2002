@@ -65,16 +65,6 @@ State-level chess player. I have led the MP girls’ team in various tournaments
   <img src="https://user-images.githubusercontent.com/55057608/215184827-93ec1b83-a9f6-47bd-aece-50c89c7e175b.png" alt="VS Code" width="5%"/>
 </p>
 
-<br/>
-
-
-##  Stats
-
-<div style="display: flex; flex-direction: row"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=kashishahuja2002&show_icons=true&theme=gotham" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashishahuja2002&theme=gotham" width="50.5%" />
-</div>
-
 
 <br/>
 
