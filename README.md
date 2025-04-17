@@ -9,8 +9,6 @@
 - **Academics:** Software Engineer with a Master of Technology degree in Information Technology from IIPS, Devi Ahilya Vishwavidyalaya, Indore (2024 batch). <br/>
 CGPA: 9.23 🎓
 
-- **Tech Interests:** Passionate front-end developer.
-
 - **Work Experience:** Currently working at Google as a Software Engineer. <br/>
 Previously interned at ServiceNow, Google, Brain Inventory, Walkover Web Solutions, and FreeLancer IT Services. <br/>
 I was also selected for the SWE internship '23 at Microsoft.
