@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Kashish Ahuja</h1> 
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">Software Developer</h3>
   
 ##  About me
 <div align="left">
