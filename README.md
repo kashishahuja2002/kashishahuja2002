@@ -13,10 +13,11 @@ CGPA: 9.23 🎓
 Previously interned at ServiceNow, Google, Brain Inventory, Walkover Web Solutions, and FreeLancer IT Services. <br/>
 I was also selected for the SWE internship '23 at Microsoft.
 
-- **Volunteering:** Mentored in GWoC'21 and HackerRam and was selected as the top mentor in GWOC. <br/>
-Contributed as a student volunteer in communities like GirlScript, Code.org, and DataCode.
+- **Extracurricular:** Contributed as a student volunteer to build communities like GirlScript, and DataCode. <br/>
+Volunteed to organize hackathons like WittyHacks and mentored in various hackathons like NIT Bhopal's Version Beta, HackerRam, GirlScrip GWoC'21 and was selected as the top mentor in GWOC. </br>
+Organized hands-on tech workshop for Google's Terraform team during my internship.
 
-- **Achievements:** Selected as Microsoft Engage Mentee'22 for mentorship by Microsoft team. <br/>
+- **Achievements:** Selected as Microsoft Engage Mentee'22 for mentorship by Microsoft team <br/> and got internship opportunity based on that. <br/>
 Secured runner-up position in the Code To Win ’23 hackathon organized by ServiceNow. <br/>
 Won the Best UI/UX team award at The Great India Hackathon - Jabalpur.
 
